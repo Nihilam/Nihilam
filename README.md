@@ -1,14 +1,16 @@
-#Welcome to WCell!
+#Welcome to Nihilam!
 
-You can find our website at http://wcell.org/
+Nihilam is a fork on the WCell 4.0 Branch. We are currently upgrading the system to 4.7 along with removing Active Record and replacing it with Nhibernate Loquacious.
 
-After downloading please follow the [Basic Setup](http://wiki.wcell.org/Basic_Setup) guide.
-If you are looking for some random bits and pieces about the project feel free to browse our [wiki](http://wiki.wcell.org/).
+You can find our website at http://nihilam.org/(Not Active)
 
-WCell focuses on a high degree of maintainability and customizability. It's clean codebase ensures that bugs can be fixed quickly and regressions are minimized.
+After downloading please follow the [Basic Setup](http://wiki.nihilam.org/Basic_Setup) guide.(Not Active)
+If you are looking for some random bits and pieces about the project feel free to browse our [wiki](http://wiki.nihilam.org/).(Not Active)
+
+Nihilam focuses on a high degree of maintainability and customizability. It's clean codebase ensures that bugs can be fixed quickly and regressions are minimized.
 
 ###Strong points
-
+(This is still current till our own wiki is up)
 * Very powerful subsystems (see [WCell API](http://wiki.wcell.org/WCell_API) for a simple overview over the API)  .
      * [Spells](http://wiki.wcell.org/API:Spells).
      * [Instances](http://wiki.wcell.org/API:Instances).
@@ -17,8 +19,8 @@ WCell focuses on a high degree of maintainability and customizability. It's clea
      * [More](http://wiki.wcell.org/API:World).
 * The simple but yet easily extendable command system.  
 * The good support  
-   * Post a question at our [forum](http://wcell.org/forum/).  
-   * Or join us on [IRC](http://wiki.wcell.org/WCell_Wiki:Community_Portal).
+   * Post a question at our [forum](http://nihilam.org/forum/). (Not Active)
+   * Or join us on [Discord](Discord Link Here).
 
 ###Feature completeness 
 
